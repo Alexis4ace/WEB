@@ -1,0 +1,6 @@
+Les fichiers PHP qui ont un entête web (un DOCTYPE) doivent
+être exécutés dans le navigateur via un serveur (apache installé
+ou la commande "php -S ...").
+
+Les autres fichiers doivent être exécutés dans une console :
+$ php -f toto.php

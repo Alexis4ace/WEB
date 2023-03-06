@@ -1,0 +1,37 @@
+h1{
+   background-color : pink;
+}
+
+h2
+{
+   background-color : #FF00FF;
+}
+
+thead, tfoot
+{
+}
+
+tbody
+{
+}
+
+table
+{
+   caption-side : bottom;
+   border : 10px outset green;
+   border-collapse : separate;
+   border-spacing : 10px 5px;
+}
+
+td
+{
+   border : 5px inset #00FFFF;
+   padding : 10px;
+}
+
+th
+{
+   border : 5px outset #00FFFF;
+   background-color : #FFFFA0;
+   padding : 10px;
+}

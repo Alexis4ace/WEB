@@ -1,0 +1,4 @@
+Le fichier "bonjour.php" est correct : il est en utf8.
+
+Le fichier "bonjour_l9.php" est incorrect : il est en iso-latin
+alors que dans l'entête HTLM il est indiqué en utf8.
